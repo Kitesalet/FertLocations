@@ -1,0 +1,33 @@
+﻿Id,Name,ProvinceId
+1,Playa del Sol,1
+2,Montaña Encantada,1
+3,Ciudad del Viento,2
+4,Valle de las Flores,2
+5,Centro Histórico,3
+6,Barrio Moderno,3
+7,Oasis del Desierto,4
+8,Pico de la Luna,4
+9,Selva Esmeralda,5
+10,Río Dorado,5
+11,Costa Azul,6
+12,Bosque Mágico,6
+13,Sierras Doradas,7
+14,Valle de los Suspiros,7
+15,Río Paraná,8
+16,Bosque Encantado,8
+17,Termas del Guaychú,9
+18,Puerto de las Palmas,9
+19,Lago Formosa,10
+20,Pueblo de las Aves,10
+21,Valle de los Colores,11
+22,Cerro de Siete Colores,11
+23,Pampa Dorada,12
+24,Laguna Escondida,12
+25,Valle de la Luna,13
+26,Cascada del Cielo,13
+27,Viñedos del Sol,14
+28,Cerro Aconcagua,14
+29,Cataratas del Iguazú,15
+30,Bosque Misionero,15
+31,Lago Nahuel Huapi,16
+32,Cerro Chapelco,16
